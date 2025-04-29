@@ -1,4 +1,7 @@
-# Support me on Patreon
+maxiey's fork
+
+
+# Support the original creator on Patreon
 <a href="https://www.patreon.com/djlastnight" style="font-size:50px">
   <img src="https://c5.patreon.com/external/logo/rebrandLogoIconMark@2x.png"
        height="40"
