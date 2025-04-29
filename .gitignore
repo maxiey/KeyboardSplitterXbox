@@ -156,3 +156,10 @@ $RECYCLE.BIN/
 
 #djlastnight
 *.exp
+/.vs
+/InterceptionUninstall/InterceptionUninstall/.vs
+/Interceptor/.vs
+/KeyboardSplitter/.vs
+/SplitterCore/.vs
+/VirtualXbox/.vs
+/XInputWrapper/.vs
