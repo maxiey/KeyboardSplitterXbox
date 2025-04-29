@@ -10,7 +10,7 @@
 
     public static class ApplicationInfo
     {
-        public const string AppName = "djlastnight's Gaming Keyboard Splitter";
+        public const string AppName = "djlastnight's Gaming Keyboard Splitter (maxiey edition)";
 
         public static readonly string AppNameVersion = string.Empty;
 
